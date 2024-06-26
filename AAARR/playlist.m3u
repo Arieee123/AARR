@@ -1,0 +1,183 @@
+#EXTM3U
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" refresh="1440" max-conn="1" refresh="24"
+
+#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" ,SCTV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h217/01.m3u8
+
+#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png" ,ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h235/01.m3u8
+
+#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" ,Indosiar
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://op-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8?app_type=web&userid=lite&chname=Indosiar
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" ,RCTI HD
+https://melon-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png" ,MNC TV
+https://melon-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+#EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png" ,GTV
+https://melon-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+#EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://static.mncnow.id/images/channel/c8369888/3fdb_r32.jpg" ,RTV
+https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
+
+#EXTINF:-1 tvg-id="Trans7" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" ,Trans7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TransTV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be43042758d8/36f75de0a5b543da8d17c46db9d44178.jpg" ,TransTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/b32939e5/00e6_r32.jpg",NET TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
+
+#EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/metro_tv.png",Metro TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png",TVOne
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h224/01.m3u8
+
+#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png" ,Kompas TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
+
+#EXTINF:-1 tvg-id="TVRI - [Channel 118].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/c57573a6/f784_r32.jpg" ,TVRI Nasional
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h237/01.m3u8
+
+#EXTINF:-1 tvg-id="Moji" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png" ,MOJI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://210.210.155.37/x6bnqe/s/s41/index.m3u8
+
+#EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/244px-BTV_%28Indonesia%29_logo.svg.png",BTV
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/btv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_GarudaTV_Merah_Putih_Silver_Merah.png/1200px-Logo_GarudaTV_Merah_Putih_Silver_Merah.png" ,Garuda TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Liputan6com_2014.png" ,Liputan 6
+https://livestream.zazerconer.workers.dev/channel/UC1QpnGo11epfexw1bIiTHTg.m3u8
+
+#EXTINF:-1 tvg-id="Nusantara TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png" ,Nusantara TV
+https://v5.siar.us/nusantaratv/live/chunks.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Bioskop Indonesia" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png",Bioskop Indonesia 
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
+
+#EXTINF:-1 tvg-id="tvN Movies HD - [Channel 415].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_25.png" ,TvN movies HD
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png", BEIN SPORTS MAX 1
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=112542&extension=ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png", BEIN SPORTS MAX 2
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=112511&extension=ts
+
+#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png",BEIN SPORTS_3
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=2600&extension=ts
+
+#EXTINF:34, MBOHH FILM
+http://op-group1-swiftservehd-1.dens.tv/h/h220/02.m3u8
+
+#EXTINF:30, TAWON TV
+https://v6.siar.us:443/madutv/hd720/chunks.m3u8
+
+#EXTINF:28, MALESIYE FILM
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+
+#EXTINF:28, TVRI JOGJA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta-avc1_1500000=10006-mp4a_96000=20001.m3u8
+
+#EXTINF:28, KADANG WAYANGAN
+https://mam.jogjaprov.go.id:1937/tv/jitv_360p/chunklist_w850229424.m3u8
+
+#EXTINF:28,FILM WAEEEEEEE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h205/02.m3u8
+
+#EXTINF:28,PILEM MANING
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h206/02.m3u8
+
+#EXTINF:28,KOREA WAE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h219/01.m3u8
+
+#EXTINF:28,KARO MADANG ENAK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h220/01.m3u8
+
+#EXTINF:28,FILM PREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8
+
+#EXTINF:28,TUKANG GELUD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8
+
+#EXTINF:28,FILM TEROS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h240/01.m3u8
+
+#EXTINF:28, PEMBALAP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h242/01.m3u8
+
+#EXTINF:28, WAYANG KULIT 7 JAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://rr3---sn-npoeenl7.googlevideo.com/videoplayback?expire=1719224331&ei=q_N4ZvbEJ93JsfIP2K7CwAQ&ip=2605%3A6400%3A20%3A18b6%3Ac5e1%3Af1bb%3Aae7d%3A7f6e&id=o-ACbaP6HqiJUyGFACXfGBXi7elw363jDnhh5WkEEYakos&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&bui=AbKP-1O9bAUsyToq8GUYOPGxdFxc_dyVAF_Ivp16BzlDYtystaHzolwS6AzQOyKbhIzrcc-BfynbXLC5&vprv=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=22868.056&lmt=1658448607572850&c=ANDROID_EMBEDDED_PLAYER&txp=6318224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRgIhAMGmKOeQuJkTHn03qFdMDRNC9u-N2FU1BSqPd8Tp25sfAiEAjDvtp0dDDu3ud_aDnkHvqiHL2WqDHmvFlbrnJVEHBc8%3D&title=SEMAR+MBANGUN+KAHYANGAN%2C+MAESTRO+DALANG+JOGJA+KI+HADI+SUGITO+ALM.+WAYANG+KULIT+YOGYAKARTA&cm2rm=sn-a5myr7z&fexp=24350485&req_id=dfc3654a0eba3ee&redirect_counter=2&rm=sn-a5meey7z&cms_redirect=yes&cmsv=e&ipbypass=yes&mh=V-&mip=27.124.83.226&mm=34&mn=sn-npoeenl7&ms=ltu&mt=1719202586&mv=m&mvi=3&pl=24&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AHlkHjAwRAIgBHRye61bcUdtSPOg3JJtsBiTtxvQ3F7J-hEg53xRM1MCIBJg8C4LNtCYCDVv2SggPlr3t9oaI1CIMZQa9wBwuPQd
+
+#EXTINF:28, (01) WAYANG KULIT 8 JAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://rr2---sn-a5meknsd.googlevideo.com/videoplayback?expire=1719223291&ei=m-94Zq3oF6f0sfIPwuKsyAc&ip=2605%3A6400%3A20%3A3e4%3Ac69b%3A67d4%3A52ef%3A6b18&id=o-ACNKMhqtA1x53Yi5dmB3cr4GB6NZ5Lju_DI_ixfiJqCE&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&bui=AbKP-1MUch1rRAkmjxkEEnnwtuh-GZo1RfBOFTWN0Y4gOTet-UJs4oIteV0FOdAlYAmZJ4QwfO08a-MY&vprv=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=23785.755&lmt=1703485243521609&c=ANDROID_EMBEDDED_PLAYER&txp=5438434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRQIhAJvz1oB1u6VrW41weHy3jTuo8ef-ux0DrKtxskPSEq2rAiBOZXcrs2EDEfbsHVLzURzBYQn5_BSpxG9wtTAJZ_9a6w%3D%3D&title=Wayang+Kulit+Ki+Hadi+Sugito.+Lakon+Semar+Gugat.&rm=sn-a5mrd7l&fexp=24350485&req_id=5ee1749086b3a3ee&ipbypass=yes&redirect_counter=2&cm2rm=sn-a5myl7s&cms_redirect=yes&cmsv=e&mh=5l&mip=168.235.203.236&mm=34&mn=sn-a5meknsd&ms=ltu&mt=1719201400&mv=m&mvi=2&pl=24&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AHlkHjAwRgIhAJ-3JtJjh6G40r2JdrH14Qvlb1o7h3tVpvsOtmFBcvfPAiEAxoTqOF8ANWAULnG5pQk5_p55zMHq1RywYWn4YMKylaU%3D
+
+#EXTINF:28,(02) WAYANG KULIT 7 JAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://rr4---sn-a5meknzk.googlevideo.com/videoplayback?expire=1719224936&ei=CPZ4ZpOzJuqhsfIPr5qygAk&ip=2605%3A6400%3A20%3A18b6%3Ac5e1%3Af1bb%3Aae7d%3A7f6e&id=o-ANJu8y8C1otokEqn8FlkH8wrL7DrtwaB9mK2tbFODnrz&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&bui=AbKP-1M47y8oE_ABJNY2YEWJfe6zScAWF35QO_eXCPuvPmWXBOFQWqe6FhjljdCLyw-xgkqYHfCUeFBZ&vprv=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=1164917656&ratebypass=yes&dur=24529.699&lmt=1714096530872885&c=ANDROID_EMBEDDED_PLAYER&txp=5438434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRQIhAJ_uaqmXdq3uiF_GIFbpmmaQBZIucstGEyc1eefKZwPoAiAC3YpTeURFQfmFGqBvMKI4EzRkNDYPMbxny7TAnJbZBg%3D%3D&title=KI+HADI+SUGITO+FULL+LAKON+PUNTADEWA+SUCI%23dalangklasik+%23kihadisugito&redirect_counter=1&rm=sn-a5myy7e&fexp=24350485&req_id=485f058dda1ba3ee&cms_redirect=yes&cmsv=e&ipbypass=yes&mh=cW&mip=168.235.203.253&mm=31&mn=sn-a5meknzk&ms=au&mt=1719203089&mv=m&mvi=4&pl=24&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AHlkHjAwRgIhAN2HYKpQZroARpePVnmjcC9jol-8L8E_XiaVu35IS7QJAiEA69iAUvcDFKHIHU7s4vtLSu7f5CHRcYC5fAFPA6w43P8%3D
+
+#EXTINF:28,(03) WAYANG KULIT 8 JAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://rr2---sn-npoldne7.googlevideo.com/videoplayback?expire=1719225346&ei=ovd4ZtDOJbWgsfIP9s6JmAk&ip=2605%3A6400%3A20%3A18b6%3Ac5e1%3Af1bb%3Aae7d%3A7f6e&id=o-ANr1H1GMH7j18o1zvTVrPuiTgiWIguKHANI5HmI6_Auo&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&bui=AbKP-1P1mXXGJ4WRz9mX3lyQxcWAatO7rLCER8nQ9BeEZuLIvSB4yHc7OgmM73jf4BM72S-98b8YES-H&vprv=1&mime=video%2Fmp4&rqh=1&gir=yes&clen=1373980969&ratebypass=yes&dur=23842.597&lmt=1583354659547179&c=ANDROID_EMBEDDED_PLAYER&txp=7316222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Cmime%2Crqh%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRQIhAI_-pQDhscpKQC6wL30Knk-JbvDhWaw2RWlZGL7dLK4lAiBpriPeOANbAKg1gvhA86nK5VWAkP7vR0goWoPsFLHZUw%3D%3D&title=Wayang+Kulit+Rec.2007.+Alm.+Ki+Hadi+Sugito.+Lakon+Petruk+Takon+Bopo.&cm2rm=sn-a5me7s7l&fexp=24350485&req_id=6bd2701d8637a3ee&redirect_counter=2&rm=sn-a5mry76&cms_redirect=yes&cmsv=e&ipbypass=yes&mh=LY&mip=27.124.83.226&mm=34&mn=sn-npoldne7&ms=ltu&mt=1719203552&mv=m&mvi=2&pl=24&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AHlkHjAwRQIgBWsYx_mpN6WMjsfzXGWfx9vQ854u1YUHWEqtFdJVbawCIQDAh-fgQ7Bab6LwsZ3-XIGqOHdD6jleD5qRhorLcvnVDg%3D%3D
+
+#EXTINF:28, KETOPRAK MATARAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://rr5---sn-npoldn7d.googlevideo.com/videoplayback?expire=1719225956&ei=BPp4ZrHFKe3Ky_sPuvSviAs&ip=2605%3A6400%3A40%3Afb66%3Afb79%3Adcdd%3A9377%3A37ad&id=o-AOtmjBDlcrZk-_eolB3BKhIsq-MQU38Emi6wb4rlrHV3&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&bui=AbKP-1Mb6Sr1Vj5zTJIj-ge_8ix7gwKfWl4MUQghktcdhI0dtaA2hNEg52KAD7yULZarBn-J1cVFRM3w&vprv=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=18858.968&lmt=1664197372400691&c=ANDROID_EMBEDDED_PLAYER&txp=5438434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cvprv%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRQIgIJ5Z213evMYhAIMGJwmvI9wKFgPxIt6XxIRN0yyZ6sUCIQCmtgDQBX0DCIpwE043PB-Speb6mQgs6YYNTq3UmQSqzw%3D%3D&title=KETOPRAK+SRI+KENCONO+TERBARU+-+JOKO+KENDIL+JALUK+RABI&cm2rm=sn-hp5yd7s&fexp=24350485&req_id=3d843009dd34a3ee&redirect_counter=2&rm=sn-a5meek7z&cms_redirect=yes&cmsv=e&ipbypass=yes&mh=B_&mip=27.124.83.226&mm=34&mn=sn-npoldn7d&ms=ltu&mt=1719204271&mv=m&mvi=5&pl=24&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AHlkHjAwRAIgG_Vg-zwtx6Z6eAr8CJW8Bztld-xU_3dI9KMmv3dX6rMCID1oXUFXLZfGb_Nd5fjZbXjbBKogLW5ZrNrVRTALoh3
