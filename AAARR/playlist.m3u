@@ -156,6 +156,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h240/01.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h242/01.m3u8
 
+#EXTINF:28, DVD FILM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://drive.usercontent.google.com/download?id=1l84nfZCKRbOQr1EP8v6qW2s5lCTGAPF_&export=download&authuser=0&confirm=t&uuid=23f56d28-f87b-479a-8548-5ee588416a27
+
 #EXTINF:28, WAYANG KULIT 7 JAM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://t.ly/C-8ao
