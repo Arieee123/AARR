@@ -96,14 +96,17 @@ http://iptvtree.net:8080/AmirBilali/76448035/157584
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png", BEIN SPORTS MAX 1
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png", BEIN SPORTS MAX 1
 http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=112542&extension=ts
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png", BEIN SPORTS MAX 2
-http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=112511&extension=ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png", BEIN SPORTS MAX 2
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=45706&extension=ts
 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/UMyLxRI.png",BEIN SPORTS_3
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png", BEIN SPORTS 1
 http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=2600&extension=ts
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png", BEIN SPORTS 2
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=45709&extension=ts
 
 #EXTINF:34, MBOHH FILM
 http://op-group1-swiftservehd-1.dens.tv/h/h220/02.m3u8
