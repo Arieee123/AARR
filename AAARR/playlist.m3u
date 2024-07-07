@@ -109,6 +109,9 @@ http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=2600&extension=
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png", BEIN SPORTS 2
 http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=45709&extension=ts
 
+#EXTINF:0,FOX SPORT
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=26079&extension=ts&play_token=8zBxg1R3Ow
+
 #EXTINF:34, MBOHH FILM
 http://op-group1-swiftservehd-1.dens.tv/h/h220/02.m3u8
 
@@ -148,6 +151,12 @@ https://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8
 #EXTINF:28,TUKANG GELUD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8
+
+#EXTINF:0, TUKANG TINJU👊
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=26112&extension=ts&play_token=uErjdZQag2
+
+#EXTINF:0, WWE SMACKDOWN
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=26123&extension=ts&play_token=6B6tPbryuQ
 
 #EXTINF:28,FILM TEROS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
