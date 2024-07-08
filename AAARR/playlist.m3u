@@ -71,9 +71,6 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://210.210.155.37/x6bnqe/s/s41/index.m3u8
 
-#EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/BTV_%28Indonesia%29_logo.svg/244px-BTV_%28Indonesia%29_logo.svg.png",BTV
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/btv.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_GarudaTV_Merah_Putih_Silver_Merah.png/1200px-Logo_GarudaTV_Merah_Putih_Silver_Merah.png" ,Garuda TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
@@ -112,15 +109,6 @@ http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=45709&extension
 #EXTINF:0,FOX SPORT
 http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=26079&extension=ts&play_token=8zBxg1R3Ow
 
-#EXTINF:34, MBOHH FILM
-http://op-group1-swiftservehd-1.dens.tv/h/h220/02.m3u8
-
-#EXTINF:30, TAWON TV
-https://v6.siar.us:443/madutv/hd720/chunks.m3u8
-
-#EXTINF:28, MALESIYE FILM
-https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
-
 #EXTINF:28, TVRI JOGJA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta-avc1_1500000=10006-mp4a_96000=20001.m3u8
@@ -136,17 +124,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h205/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h206/02.m3u8
 
-#EXTINF:28,KOREA WAE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h219/01.m3u8
-
 #EXTINF:28,KARO MADANG ENAK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h220/01.m3u8
-
-#EXTINF:28,FILM PREMIUM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8
 
 #EXTINF:28,TUKANG GELUD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
@@ -158,34 +138,10 @@ http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=26112&extensi
 #EXTINF:0, WWE SMACKDOWN
 http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=26123&extension=ts&play_token=6B6tPbryuQ
 
-#EXTINF:28,FILM TEROS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h240/01.m3u8
-
 #EXTINF:28, PEMBALAP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h242/01.m3u8
 
-#EXTINF:28, DVD FILM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://drive.usercontent.google.com/download?id=1l84nfZCKRbOQr1EP8v6qW2s5lCTGAPF_&export=download&authuser=0&confirm=t&uuid=23f56d28-f87b-479a-8548-5ee588416a27
-
 #EXTINF:28, WAYANG KULIT 7 JAM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://t.ly/C-8ao
-
-#EXTINF:28, (01) WAYANG KULIT 8 JAM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://t.ly/W3wzH
-
-#EXTINF:28,(02) WAYANG KULIT 7 JAM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://t.ly/W3wzH
-
-#EXTINF:28,(03) WAYANG KULIT 8 JAM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://t.ly/d7TAZ
-
-#EXTINF:28, CAMPURSARI JAWI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://t.ly/5zEFg
