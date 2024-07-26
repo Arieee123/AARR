@@ -6,6 +6,11 @@
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" ,SCTV🇲🇨
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png" ,SCTV
+http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/x8LdPCY/Antv.jpg" ,ANTV🇲🇨
 https://cdn09jtedge.indihometv.com/joss/130/antv/index.m3u8?c
 
@@ -13,6 +18,12 @@ https://cdn09jtedge.indihometv.com/joss/130/antv/index.m3u8?c
 #KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIyMDAxOjQ0OGE6MjAwMzoyOGZlOmY0Mjk6MjA0Mjo3ZDEwOjY3MzUiLCJkZXZpY2VUeXBlIjoiV2luZG93cyIsImNoYW5uZWxJZCI6IkluZG9zaWFySEQiLCJzaWduYXR1cmVLZXkiOiJkNGJlYmZmZGJkNGY0NjkyN2UwYTg5M2QwOTQxNjExNCIsInByb3ZpZGVyIjoiZm0iLCJ0eXBlIjoiZGFzaCIsImV4cCI6MTcyMTk2MzcwMH0
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_indosiar_ver3.png" ,Indosiar🇲🇨
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+
+
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_indosiar_ver3.png" ,Indosiar
+http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 
 #EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" ,RCTI HD🇲🇨
 #EXTVLCOPT:http-user-agent=android-R+
