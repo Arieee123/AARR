@@ -81,7 +81,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #https://link.zozotv.xyz:443/rozila969/abc12345/476
 #https://playlist-coffee.my.id/oxy/inews.m3u8
 
-#EXTINF:-1 group-title="ARRR-TV" tvg-id="cartoonnetworkasia.sg" tvg-logo="https://i.imgur.com/8VTfjI6.png",Cartoon Network
+#EXTINF:-1 group-title="ARRR-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cartoon_Network_logo_%281992-2010%29.svg/1024px-Cartoon_Network_logo_%281992-2010%29.svg.png",Cartoon Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=becf26bd23324d149cde4f26a95e333d:881c3a84223b1b6903a3bbee00012413
 https://cdn08jtedge.indihometv.com/dass/107/cartoonnetwork/manifest.mpd
@@ -149,4 +149,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h242/01.m3u8
 
 #EXTINF:0 group-title="ARRR-TV",TUTORIAL SHOLAT WAJIB👍👍👍
 https://pixeldrain.com/api/file/7FbAgkDh?download
+
+#EXTINF:-1 tvg-id="SCTVHD.id" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/290.png" group-title="ARRR-TV", SCTV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
+https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
