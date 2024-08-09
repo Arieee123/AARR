@@ -71,8 +71,8 @@ http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
 https://cdn09jtedge.indihometv.com/joss/194/animalplanet/index.m3u8?c
 
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_GarudaTV_Merah_Putih_Silver_Merah.png/1200px-Logo_GarudaTV_Merah_Putih_Silver_Merah.png" group-title="ARRR-TV",Garuda TV
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co.com/F8LSMg9/inews.png" group-title="ARRR-TV",iNEWS TV
 #EXTVLCOPT:http-user-agent=android-R+
@@ -80,6 +80,10 @@ https://etv-cdn.kdb.co.id/GarudaTV-Stream/tracks-v1a1/mono.m3u8
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #https://link.zozotv.xyz:443/rozila969/abc12345/476
 #https://playlist-coffee.my.id/oxy/inews.m3u8
+
+#EXTINF:-1 group-title="ARRR-TV" tvg-id="jtv.id" tvg-logo="https://id.m.wikipedia.org/wiki/JTV_(Indonesia)#/media/Berkas:JTV1.png",JTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/index.m3u8
 
 #EXTINF:-1 group-title="ARRR-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Cartoon_Network_logo_%281992-2010%29.svg/1024px-Cartoon_Network_logo_%281992-2010%29.svg.png",Cartoon Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
