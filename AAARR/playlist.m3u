@@ -6,7 +6,7 @@
 #EXTINF:-1 group-title="ARRR-TV" tvg-id="sctv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/640px-SCTV_Logo.svg.png",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/x8LdPCY/Antv.jpg" group-title="ARRR-TV",ANTV🇲🇨
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/x8LdPCY/Antv.jpg" group-title="ARRR-TV",ANTV
 https://cdn09jtedge.indihometv.com/joss/130/antv/index.m3u8?c
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -81,7 +81,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #https://link.zozotv.xyz:443/rozila969/abc12345/476
 #https://playlist-coffee.my.id/oxy/inews.m3u8
 
-#EXTINF:-1 group-title="ARRR-TV" tvg-id="jtv.id" tvg-logo="https://raw.githubusercontent.com/Arieee123/Public/main/20240815_181102.png",JTV
+#EXTINF:-1 group-title="ARRR-TV" tvg-id="jtv.id" tvg-logo="https://raw.githubusercontent.com/Arieee123/Public/main/png-clipart-surabaya-television-logo-jtv-kediri-jawa-pos-tv-instagram-miscellaneous-blue.png",JTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/index.m3u8
 
@@ -169,5 +169,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
+#EXTINF:-1 tvg-id="AnTV.id" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/202.png" group-title="ARRR-TV", ANTV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b4899559135b490d98a892c1d6a45e20:6b5feff6a7242dc4b4345bedb84c2181
+https://atemecdnbalancer-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
 
 
